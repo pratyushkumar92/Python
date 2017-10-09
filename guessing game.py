@@ -8,4 +8,5 @@ while index<10:
         print "Wrong guess\n"
     index = index + 1
 print "Your chances are over"
+print "You can try next time, bye bye"
 

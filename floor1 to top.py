@@ -4,4 +4,4 @@ while counter<=10:
     print Floor
     Floor=Floor+1
     counter=counter+1
-print "Top floor"
+print "Pahuch gya"
